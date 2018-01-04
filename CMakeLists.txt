@@ -1,3 +1,5 @@
+cmake_minimum_required(VERSION 3.7)
+
 set(SDL_STATIC ON)
 
 # Make sure no d3d and opengl ES is build
