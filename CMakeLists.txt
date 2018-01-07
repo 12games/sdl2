@@ -8,5 +8,5 @@ set(DIRECTX OFF CACHE BOOL "DIRECTX off")
 set(SDL_SRENDER_D3D OFF CACHE BOOL "SDL_SRENDER_D3D off")
 set(VIDEO_OPENGLES OFF CACHE BOOL "VIDEO_OPENGLES off")
 
-add_subdirectory(build/SDL)
+add_subdirectory(SDL)
 
